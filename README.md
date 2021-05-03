@@ -10,5 +10,5 @@
 <br />
 
 [twitter]: https://twitter.com/stulpaas
-[discord]: https://https://discord.bio/p/stulps
+[discord]: https://discord.bio/p/stulps
 [reddit]: https://www.reddit.com/user/breadwithmold
